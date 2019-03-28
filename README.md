@@ -15,8 +15,6 @@ I have talked to the Professor Mongan about reading the data directly from Drexe
 
 I copied 5 different schedules from my DrexelOne schedule and using them as inputs. 
 
-I also wanted to use Google Calendar API to automatically import the `.ics` file, but I did not have enough time to do so.
-
 ----
 
 ##### Makefile
