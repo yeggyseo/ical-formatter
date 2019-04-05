@@ -2,7 +2,7 @@
 
 #### CS 265 Final Project
 
-##### I did not upload sample input files since it containes some private information. Please contact me if you want a sample input file!
+##### I did not upload sample input files since it containes some private information. Please contact me @ yeggy.seo@gmail.com if you want a sample input file!
 
 ---
 to run the program : 
