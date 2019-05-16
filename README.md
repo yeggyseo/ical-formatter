@@ -1,6 +1,4 @@
-### Author : Yegeon Seo
-
-#### CS 265 Final Project
+### Ical formatter
 
 ##### I did not upload sample input files since it containes some private information. Please contact me @ yeggy.seo@gmail.com if you want a sample input file!
 
@@ -11,7 +9,7 @@ to run the program :
 
 This program creates an ical file from drexel schedule.
 
-I have talked to the Professor Mongan about reading the data directly from Drexel course registration system, but he suggested using a different source since it is hard to get data directly from Drexel. Therefore, I copied schedules from:
+Copied schedules from:
 
 * DrexelOne -> Academics -> Weekly Course Schedule -> Detailed Information 
 
@@ -33,7 +31,7 @@ Makefile contains build, run, view, and clean.
 * To clean: ```make clean```
 
 ----
-### Thanks!
+### bye
 
 
 
