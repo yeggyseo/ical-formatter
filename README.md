@@ -31,7 +31,7 @@ Makefile contains build, run, view, and clean.
 * To clean: ```make clean```
 
 ----
-### bye
+### Thanks!
 
 
 
