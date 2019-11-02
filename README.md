@@ -4,7 +4,7 @@
 
 ---
 to run the program : 
-```python3 final.py inputFile```
+```make run``` or ```python3 final.py inputFile```
 ---
 
 This program creates an ical file from drexel schedule.
